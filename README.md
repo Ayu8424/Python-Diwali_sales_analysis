@@ -1,4 +1,4 @@
-# 🛒 Sales Analysis Project 📊  
+# 🛒 Diwali Sales Analysis Project 📊  
 
 ## 📌 Overview  
 This project analyzes **customer sales data** to gain insights into purchasing behavior, top-performing states, and product preferences.  
